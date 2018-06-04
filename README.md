@@ -23,4 +23,6 @@ In this app you will use node to:
 
 10. Don't forget to run the npm install for Inquirer & mysql
 
-11. Enjoy!
+11. Follow the attached link for video instructions on how to run this application: https://drive.google.com/file/d/1sYzN5-Bp8D8_TJOvIc6FREYbh3kJDReo/view
+
+Enjoy!
